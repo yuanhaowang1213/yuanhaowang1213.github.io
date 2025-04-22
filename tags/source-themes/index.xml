@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Source Themes | Yuanhao Wang</title>
-    <link>https://yuanhaowang1213.github.io/tags/source-themes/</link>
-      <atom:link href="https://yuanhaowang1213.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/source-themes/</link>
+      <atom:link href="http://localhost:1313/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yuanhaowang1213.github.io/media/icon_hu_4af40db37306e863.png</url>
+      <url>http://localhost:1313/media/icon_hu_4af40db37306e863.png</url>
       <title>Source Themes</title>
-      <link>https://yuanhaowang1213.github.io/tags/source-themes/</link>
+      <link>http://localhost:1313/tags/source-themes/</link>
     </image>
     
     <item>
       <title>Joint Motion-Correction and Reconstruction in Cryo-EM Tomography</title>
-      <link>https://yuanhaowang1213.github.io/publication/icip2022/</link>
+      <link>http://localhost:1313/publication/icip2022/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://yuanhaowang1213.github.io/publication/icip2022/</guid>
+      <guid>http://localhost:1313/publication/icip2022/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Rethinking Learning-based Demosaicing, Denoising, and Super-Resolution Pipeline</title>
-      <link>https://yuanhaowang1213.github.io/publication/iccp2022/</link>
+      <link>http://localhost:1313/publication/iccp2022/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://yuanhaowang1213.github.io/publication/iccp2022/</guid>
+      <guid>http://localhost:1313/publication/iccp2022/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Neural Adaptive Scene Tracing (NAScenT)</title>
-      <link>https://yuanhaowang1213.github.io/publication/vmv2022/</link>
+      <link>http://localhost:1313/publication/vmv2022/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://yuanhaowang1213.github.io/publication/vmv2022/</guid>
+      <guid>http://localhost:1313/publication/vmv2022/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -77,9 +77,9 @@
     
     <item>
       <title>NeAT: Neural Adaptive Tomography</title>
-      <link>https://yuanhaowang1213.github.io/publication/siggraph2022/</link>
+      <link>http://localhost:1313/publication/siggraph2022/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://yuanhaowang1213.github.io/publication/siggraph2022/</guid>
+      <guid>http://localhost:1313/publication/siggraph2022/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -98,9 +98,9 @@
     
     <item>
       <title>Stereo Event-based Particle Tracking Velocimetry for 3D Fluid Flow Reconstruction</title>
-      <link>https://yuanhaowang1213.github.io/publication/eccv2020stereo/</link>
+      <link>http://localhost:1313/publication/eccv2020stereo/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://yuanhaowang1213.github.io/publication/eccv2020stereo/</guid>
+      <guid>http://localhost:1313/publication/eccv2020stereo/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -119,9 +119,9 @@
     
     <item>
       <title>A high-speed digital true random number generator based on cross ring oscillator</title>
-      <link>https://yuanhaowang1213.github.io/publication/ieice2016/</link>
+      <link>http://localhost:1313/publication/ieice2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://yuanhaowang1213.github.io/publication/ieice2016/</guid>
+      <guid>http://localhost:1313/publication/ieice2016/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -140,9 +140,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>https://yuanhaowang1213.github.io/project/journal-article/</link>
+      <link>http://localhost:1313/project/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://yuanhaowang1213.github.io/project/journal-article/</guid>
+      <guid>http://localhost:1313/project/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
